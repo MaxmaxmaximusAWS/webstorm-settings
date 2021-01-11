@@ -6,8 +6,13 @@
           <option name="url" value="http://git-codecommit.us-east-1.amazonaws.com" />
           <option name="userName" value="MaxmaxmaximusAWS-at-805908571649" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-codecommit.us-east-1.amazonaws.com/v1/repos/rollme" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\localhost" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

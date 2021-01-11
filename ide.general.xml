@@ -10,6 +10,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="AwsSettingsPanel" value="false" />
         <entry key="mtStatusBar" value="false" />
       </map>
     </option>

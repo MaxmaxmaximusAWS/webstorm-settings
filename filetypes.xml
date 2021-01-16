@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="graphqlconfig" type="JSON" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>

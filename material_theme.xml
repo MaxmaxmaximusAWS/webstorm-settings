@@ -3,6 +3,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />

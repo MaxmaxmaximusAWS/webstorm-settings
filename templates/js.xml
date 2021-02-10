@@ -5,4 +5,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="com" value="import styles from './$NAME$.scss'&#10;import React, { FC } from 'react'&#10;&#10;&#10;export const $NAME$: FC = () =&gt; {&#10;  return (&#10;    &lt;div className={styles.host}&gt;&#10;      $END$&#10;    &lt;/div&gt;&#10;  )&#10;}&#10;" description="Component FC" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>

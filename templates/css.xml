@@ -1,5 +1,5 @@
 <templateSet group="css">
-  <template name="." value=".host {&#10;  $END$&#10;}" description="host" toReformat="false" toShortenFQNames="true">
+  <template name=":" value=".host {&#10;  $END$&#10;}" description=".host" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="true" />
     </context>

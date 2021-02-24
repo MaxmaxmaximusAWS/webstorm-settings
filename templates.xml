@@ -1075,102 +1075,6 @@
           <option name="key" value="!!!" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ai" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="an" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ats" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="atsm" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="cos" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ctn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ctnwp" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="cwt" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="cwto" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="fe" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="it" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="kn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="o" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="pn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tm" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tmm" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tt" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="vn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="vns" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="vos" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="wp" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="wpn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="wt" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="Zen CSS" />
           <option name="key" value="@i" />
         </TemplateKey>
@@ -4817,34 +4721,6 @@
         <TemplateKey>
           <option name="groupName" value="Handlebars" />
           <option name="key" value="itar" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Meteor HTML" />
-          <option name="key" value="temp:name" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="gtr" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="gtrp" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="ptr" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="ptrp" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="mptr" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="fptr" />
         </TemplateKey>
       </list>
     </option>

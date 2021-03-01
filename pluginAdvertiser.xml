@@ -1207,6 +1207,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.svelte">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.blachut.svelte.lang" />
+              <option name="myPluginName" value="Svelte" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.svg">
           <value>
             <plugin>

@@ -22,6 +22,14 @@
           <option name="url" value="http://hub.aniklab.com" />
           <option name="userName" value="a.sosnin@gaskar.group" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/ArtClub/desctop-file-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="MaxmaxmaximusAWS" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\localhost" />

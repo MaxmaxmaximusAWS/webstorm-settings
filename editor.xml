@@ -5,7 +5,9 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Source Code Pro" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />

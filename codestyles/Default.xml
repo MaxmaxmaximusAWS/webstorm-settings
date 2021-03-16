@@ -16,6 +16,12 @@
   <codeStyleSettings language="EditorConfig">
     <option name="SPACE_AFTER_COLON" value="true" />
   </codeStyleSettings>
+  <codeStyleSettings language="GraphQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />

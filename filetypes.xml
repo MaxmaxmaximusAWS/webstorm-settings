@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="referenceNames" type="AUTO_DETECTED" />
       <mapping pattern="settings.ts" type="AUTO_DETECTED" />
+      <mapping ext="conf" type="Native" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="svalete" type="PLAIN_TEXT" />
       <removed_mapping ext="env" approved="true" type="PLAIN_TEXT" />

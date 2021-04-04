@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Other/Rollback changes in current line" />
+  </component>
+</application>

@@ -7,7 +7,6 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
-  <option name="LINE_SEPARATOR" value="&#13;" />
   <codeStyleSettings language="CoffeeScript">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />

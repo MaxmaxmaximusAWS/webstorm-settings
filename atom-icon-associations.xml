@@ -1,0 +1,16 @@
+<application>
+  <component name="Atom Icon Associations Config">
+    <option name="customFolderAssociations">
+      <CustomAssociations>
+        <option name="customAssociations">
+          <RegexAssociation>
+            <option name="matcher" value="gqless" />
+            <option name="pattern" value="gqless" />
+            <option name="name" value="GQless" />
+            <option name="icon" value="\graphql.svg" />
+          </RegexAssociation>
+        </option>
+      </CustomAssociations>
+    </option>
+  </component>
+</application>

@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="referenceNames" type="AUTO_DETECTED" />
       <mapping pattern="settings.ts" type="AUTO_DETECTED" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="conf" type="Native" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />

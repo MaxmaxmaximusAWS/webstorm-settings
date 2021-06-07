@@ -34,9 +34,17 @@
           <option name="url" value="https://gitlab.com/ArtClub/artclub.one.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.theabyss.io/theabyssportal/web-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.theabyss.io" />
+          <option name="userName" value="maxmaxmaximusaws@destiny.games" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\localhost" />
+    <option name="cloneParentDir" value="C:\localhost\destiny-games" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

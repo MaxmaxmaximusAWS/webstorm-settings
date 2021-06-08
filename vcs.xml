@@ -42,6 +42,10 @@
           <option name="url" value="http://gitlab.theabyss.io" />
           <option name="userName" value="maxmaxmaximusaws@destiny.games" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.theabyss.io/theabyssportal/monoweb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\localhost\destiny-games" />

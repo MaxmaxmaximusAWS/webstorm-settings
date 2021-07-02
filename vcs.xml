@@ -46,9 +46,13 @@
           <option name="url" value="https://gitlab.theabyss.io/theabyssportal/monoweb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.pcbltools.ru/bitbucket/scm/edupower/edu-front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\localhost\destiny-games" />
+    <option name="cloneParentDir" value="C:\localhost" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

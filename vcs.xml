@@ -50,6 +50,10 @@
           <option name="url" value="https://bitbucket.pcbltools.ru/bitbucket/scm/edupower/edu-front.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.pcbltools.ru:7999/edupower/edu-front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\localhost" />

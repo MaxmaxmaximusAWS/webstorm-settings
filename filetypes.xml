@@ -5,8 +5,6 @@
       <mapping pattern="settings.ts" type="AUTO_DETECTED" />
       <mapping pattern="referenceNames" type="AUTO_DETECTED" />
       <mapping ext="conf" type="Native" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="svalete" type="PLAIN_TEXT" />
       <mapping ext="ibd" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="PLAIN_TEXT" />
@@ -14,6 +12,8 @@
       <removed_mapping ext="env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
+      <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
     </extensionMap>
   </component>
 </application>

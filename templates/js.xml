@@ -1,5 +1,5 @@
 <templateSet group="js">
-  <template name="com" value="import React, { FC } from 'react';&#10;import style from './$NAME$.module.scss';&#10;&#10;export interface $NAME$Props {&#10;}&#10;&#10;export const $NAME$: FC&lt;$NAME$Props&gt; = () =&gt; {&#10;  return (&#10;    &lt;div className={style.host}&gt;&#10;      $END$&#10;    &lt;/div&gt;&#10;  );&#10;};&#10;" description="component" toReformat="false" toShortenFQNames="true">
+  <template name="com" value="import React, { FC } from 'react';&#10;import style from './$NAME$.module.css';&#10;&#10;export interface $NAME$Props {&#10;}&#10;&#10;export const $NAME$: FC&lt;$NAME$Props&gt; = () =&gt; {&#10;  return (&#10;    &lt;div className={style.host}&gt;&#10;      $END$&#10;    &lt;/div&gt;&#10;  );&#10;};&#10;" description="component" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />

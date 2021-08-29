@@ -4083,6 +4083,10 @@
           <option name="key" value="flow" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="arf" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="React" />
           <option name="key" value="bnd" />
         </TemplateKey>
@@ -4376,14 +4380,6 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Vue" />
-          <option name="key" value="vdec" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vinc" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
           <option name="key" value="vcomputed" />
         </TemplateKey>
         <TemplateKey>
@@ -4413,10 +4409,6 @@
         <TemplateKey>
           <option name="groupName" value="Vue" />
           <option name="key" value="vimport-lib" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vimport-c" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Vue" />
@@ -4489,10 +4481,6 @@
         <TemplateKey>
           <option name="groupName" value="Vue" />
           <option name="key" value="von" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vbase" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="AngularJS " />

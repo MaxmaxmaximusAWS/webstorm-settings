@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="referenceNames" type="AUTO_DETECTED" />
       <mapping pattern="settings.ts" type="AUTO_DETECTED" />
+      <mapping pattern="referenceNames" type="AUTO_DETECTED" />
       <mapping ext="conf" type="Native" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />

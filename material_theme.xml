@@ -7,7 +7,6 @@
     <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -19,6 +18,6 @@
     <option name="accentColor" value="416a9b" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-3b03bf36:176d1cd3c62:-8000" />
-    <option name="version" value="6.5.0.1" />
+    <option name="version" value="6.9.1" />
   </component>
 </application>

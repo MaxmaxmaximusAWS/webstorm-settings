@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="54.237.102.40" id="5b72cdfa-0353-4fc2-ba1b-18a7451fce2d" keyPath="C:\Users\me\.ssh\VPN.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
-    </configs>
-  </component>
-</application>

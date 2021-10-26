@@ -1,0 +1,6 @@
+<application>
+  <component name="aws">
+    <option name="profilesNotification" value="Never" />
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+</application>

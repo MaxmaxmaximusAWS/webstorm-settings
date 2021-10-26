@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="MaxmaxmaximusAWS" id="4099aa84-44f6-463b-8370-8f5d726e3f0c">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>

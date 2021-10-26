@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Other/Rollback changes in current line" />
+    <ignoreAction name="JavaScript/JSX/Wrap value with {}" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="JavaScript/Introduce local variable" />
+    <ignoreAction name="Language injection/Inject language or reference" />
+  </component>
+</application>

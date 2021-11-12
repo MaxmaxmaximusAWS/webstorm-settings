@@ -3,9 +3,6 @@
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="JAVADOC_INFO_DELAY" value="0" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
-  </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />

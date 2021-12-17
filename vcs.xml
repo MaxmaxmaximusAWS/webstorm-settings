@@ -66,6 +66,10 @@
           <option name="url" value="https://gitlab.com/ClockRide/apollo42-frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/ClockRide/apollo42-frontend" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\localhost" />

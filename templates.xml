@@ -1075,100 +1075,260 @@
           <option name="key" value="!!!" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ai" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="fori" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="an" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="cmd" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ats" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="cmd success check" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="atsm" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="tar compress" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="cos" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="tar decompress" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ctn" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="mkdir" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ctnwp" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="git branch create" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="cwt" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="git push" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="cwto" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="git commit" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="fe" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="curl" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="it" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="rm" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="kn" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="find" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="o" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="heredoc" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="pn" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="xargs" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tm" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="system info linux" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tmm" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="system info mac" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tn" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="system kernel info" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tt" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array create" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="vn" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array all" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="vns" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array at index" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="vos" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array length" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="wp" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array delete" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="wpn" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array delete at" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="wt" />
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array set element" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array add" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array iteration" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_if" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_elif" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_select" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_case" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_for" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_while" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_until" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_function" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string is empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file readable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file writable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file executable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file equals" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file newer" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file older" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_path exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_directory exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_command exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="HTTP Request" />
+          <option name="key" value="gtr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="HTTP Request" />
+          <option name="key" value="gtrp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="HTTP Request" />
+          <option name="key" value="ptr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="HTTP Request" />
+          <option name="key" value="ptrp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="HTTP Request" />
+          <option name="key" value="mptr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="HTTP Request" />
+          <option name="key" value="fptr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="HTTP Request" />
+          <option name="key" value="var" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="HTTP Request" />
+          <option name="key" value="env" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="HTTP Request" />
+          <option name="key" value="ssl" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
@@ -1181,10 +1341,6 @@
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
           <option name="key" value="@m" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Zen CSS" />
-          <option name="key" value="@media" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
@@ -3739,224 +3895,100 @@
           <option name="key" value="wfsm:n" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="fori" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="ai" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="cmd" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="an" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="cmd success check" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="ats" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="tar compress" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="atsm" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="tar decompress" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="cos" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="mkdir" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="ctn" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="git branch create" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="ctnwp" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="git push" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="cwt" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="git commit" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="cwto" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="curl" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="fe" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="rm" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="it" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="find" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="kn" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="heredoc" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="o" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="xargs" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="pn" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="system info linux" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="tm" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="system info mac" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="tmm" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="system kernel info" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="tn" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="array create" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="tt" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="array all" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="vn" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="array at index" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="vns" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="array length" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="vos" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="array delete" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="wp" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="array delete at" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="wpn" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="array set element" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="array add" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script" />
-          <option name="key" value="array iteration" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_if" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_elif" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_select" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_case" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_for" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_while" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_until" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_function" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_string equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_string not equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_string is empty" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_string not empty" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number not equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number less" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number less or equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number greater" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_number greater or equal" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file exists" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file not empty" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file readable" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file writable" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file executable" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file equals" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file newer" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_file older" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_path exists" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_directory exists" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Shell Script Hidden" />
-          <option name="key" value="shell_command exists" />
+          <option name="groupName" value="xsl" />
+          <option name="key" value="wt" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="JavaScript Testing" />
@@ -4081,6 +4113,10 @@
         <TemplateKey>
           <option name="groupName" value="JavaScript" />
           <option name="key" value="flow" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="arf" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
@@ -4376,14 +4412,6 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Vue" />
-          <option name="key" value="vdec" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vinc" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
           <option name="key" value="vcomputed" />
         </TemplateKey>
         <TemplateKey>
@@ -4416,7 +4444,7 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Vue" />
-          <option name="key" value="vimport-c" />
+          <option name="key" value="vcomponents" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Vue" />
@@ -4492,110 +4520,118 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Vue" />
-          <option name="key" value="vbase" />
+          <option name="key" value="vbase-css" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="Handlebars" />
+          <option name="key" value="itar" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Meteor HTML" />
+          <option name="key" value="temp:name" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngdcf" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngdlf" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngdc" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngdl" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngc" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngfor" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngindex" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngsa" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngst" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngb" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngm" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngma" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngmc" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngmfa" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngms" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngmfi" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngrw" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngrwr" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="ngro" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="$f" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="$v" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="$va" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="$w" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="$on" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="$b" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="AngularJS " />
+          <option name="groupName" value="AngularJS" />
           <option name="key" value="$e" />
         </TemplateKey>
         <TemplateKey>
@@ -4813,50 +4849,6 @@
         <TemplateKey>
           <option name="groupName" value="Angular" />
           <option name="key" value="a-subscribe" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Handlebars" />
-          <option name="key" value="itar" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Meteor HTML" />
-          <option name="key" value="temp:name" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="gtr" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="gtrp" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="ptr" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="ptrp" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="mptr" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="fptr" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="var" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="env" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="HTTP Request" />
-          <option name="key" value="ssl" />
         </TemplateKey>
       </list>
     </option>

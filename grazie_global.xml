@@ -6,5 +6,14 @@
         <option value="Russian" />
       </set>
     </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="Плоский словарь Сделать плоским" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
   </component>
 </application>

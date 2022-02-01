@@ -74,6 +74,10 @@
           <option name="url" value="https://git.juliett.xyz/cryptopayments/payler.cryptopayments.freeton.react.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://liviusDev@dev.azure.com/liviusDev/livius/_git/livius" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\localhost" />

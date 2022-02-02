@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="env" type=".env file" />
       <mapping pattern="qq,json" type="AUTO_DETECTED" />
       <mapping pattern="settings.ts" type="AUTO_DETECTED" />
       <mapping pattern="referenceNames" type="AUTO_DETECTED" />

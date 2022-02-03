@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="env" type=".env file" />
       <mapping pattern="qq,json" type="AUTO_DETECTED" />
       <mapping pattern="settings.ts" type="AUTO_DETECTED" />
       <mapping pattern="referenceNames" type="AUTO_DETECTED" />
@@ -13,6 +12,7 @@
       <mapping ext="db-journal" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
       <removed_mapping ext="conf" approved="true" type="Native" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />

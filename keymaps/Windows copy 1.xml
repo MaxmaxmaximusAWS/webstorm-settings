@@ -1,5 +1,8 @@
 <keymap version="1" name="Windows copy 1" parent="$default">
   <action id="ActivateBookmarksToolWindow" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="BookmarksView.Rename" />
+  <action id="ChangesView.Rename" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
@@ -8,6 +11,10 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CopyAggregatorResult" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="CopyAbsolutePath" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction">
@@ -22,6 +29,11 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
+  <action id="Git.Rename.Local.Branch" />
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoNextError" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>
@@ -30,14 +42,18 @@
   </action>
   <action id="RemoteHostView.CopyPaths" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Replace" />
   <action id="SendEOF" />
+  <action id="ShelvedChanges.Rename" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="Table-startEditing" />
+  <action id="Tree-startEditing" />
   <action id="UsageFiltering.ReadAccess" />
   <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="XDebugger.SetValue" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>

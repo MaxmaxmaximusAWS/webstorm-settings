@@ -48,9 +48,6 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="RenameFile">
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
   <action id="Replace" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />

@@ -79,11 +79,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:bistox-exchange-v3/ocelot.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.com:bistox-exchange-v3/baseapp.git" />
+          <option name="url" value="https://github.com/abpopov/free.rooms.hotel.app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>

@@ -3,6 +3,7 @@
   <action id="Arrangement.Rule.Edit" />
   <action id="BookmarksView.Rename" />
   <action id="ChangesView.Rename" />
+  <action id="CloseActiveTab" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
@@ -29,6 +30,9 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -54,6 +58,7 @@
   <action id="Tree-startEditing" />
   <action id="UsageFiltering.ReadAccess" />
   <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>

@@ -10,11 +10,6 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="q" value="const {data, loading, error} = useQuery($END$)" description="useQuery" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
   <template name="=&gt;" value="const $NAME$ = () =&gt; {&#10;  return $END$&#10;}" description="function" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

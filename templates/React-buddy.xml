@@ -1,0 +1,7 @@
+<templateSet group="React-buddy">
+  <template name="us" value="dffd" description="useState" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

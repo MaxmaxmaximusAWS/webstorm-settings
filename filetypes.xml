@@ -5,7 +5,6 @@
       <mapping pattern="settings.ts" type="AUTO_DETECTED" />
       <mapping pattern="referenceNames" type="AUTO_DETECTED" />
       <mapping ext="env" type="AUTO_DETECTED" />
-      <mapping pattern="nest-cli.json" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="svalete" type="PLAIN_TEXT" />

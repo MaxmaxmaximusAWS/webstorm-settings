@@ -4,6 +4,9 @@
   <action id="BookmarksView.Rename" />
   <action id="ChangesView.Rename" />
   <action id="CloseActiveTab" />
+  <action id="CloudConfigSilentlyAction">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
@@ -29,6 +32,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathBar" />
   <action id="FindInPath" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -38,6 +42,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="GotoNextError" />
+  <action id="ParameterInfo" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>

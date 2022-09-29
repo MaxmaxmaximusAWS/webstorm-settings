@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/yakovlev-alexey/nest-next-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\localhost" />
